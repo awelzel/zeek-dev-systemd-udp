@@ -1,0 +1,3 @@
+[submodule "zeek-packet-source-udp"]
+	path = zeek-packet-source-udp
+	url = https://github.com/zeek/zeek-packet-source-udp.git
